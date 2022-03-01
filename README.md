@@ -1,0 +1,2 @@
+# ConSqr2
+Yes
